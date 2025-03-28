@@ -9,7 +9,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="pages">Home</a>
+                    <a class="nav-link active" aria-current="page" href="/pages">Home</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="about">About us</a>
@@ -19,7 +19,9 @@
                 </li>
                 <a class="nav-link" href="basket">Basket</a>
                 </li>
-                <a class="nav-link" href="payment">Payment</a>
+                <li class="nav-item">
+                    <a class="nav-link" href="payment">Payment</a>
+                </li>
                 <li class="nav-item">
                     <a class="nav-link" href="contact">Log in</a>
                 </li>

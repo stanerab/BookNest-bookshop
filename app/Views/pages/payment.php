@@ -49,22 +49,10 @@
                 <button type="submit" class="btn btn-primary w-100">Pay Now</button>
             </form>
             <div class="text-center mt-4 bg-orange p-3 rounded">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/American_Express_logo_%282018%29.svg"
-                    alt="AMEX" width="50" class="me-2">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_Pay_logo.svg" alt="Apple Pay"
-                    width="50" class="me-2">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Discover_Card_logo.svg" alt="Discover"
-                    width="50" class="me-2">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Pay_Logo.svg" alt="Google Pay"
-                    width="50" class="me-2">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Mastercard-logo.svg" alt="MasterCard"
                     width="50" class="me-2">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" alt="PayPal" width="50"
                     class="me-2">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Shopify_Logo.svg" alt="Shopify" width="50"
-                    class="me-2">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/UnionPay_logo.svg" alt="UnionPay"
-                    width="50" class="me-2">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Visa.svg" alt="Visa" width="50">
             </div>
         </div>
