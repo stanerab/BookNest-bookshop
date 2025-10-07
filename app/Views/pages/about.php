@@ -1,4 +1,21 @@
 <h1>About us Page</h1>
+<style>
+    .small-img {
+        max-width: 100%;
+        max-height: 120px;
+        height: auto;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+
+    .rounded-circle {
+        width: 80px;
+        height: 80px;
+        object-fit: cover;
+        border-radius: 50%;
+    }
+</style>
+
 
 <!-- About Us Section -->
 <div class="container mt-5">
@@ -13,13 +30,13 @@
                 them with an excellent shopping experience.</p>
         </div>
         <div class="col-md-3">
-            <img src="./images/bookshop.jpeg" alt="Bookshop" class="img-fluid rounded">
+            <img src="./images/bookshop.jpeg" alt="Bookshop" class="img-fluid rounded small-img">
         </div>
     </div>
 
     <div class="row mt-3">
         <div class="col-md-3">
-            <img src="./images/bookshop.jpeg" alt="Mission" class="img-fluid rounded">
+            <img src="./images/ourmission.jpeg" alt="Mission" class="img-fluid rounded small-img">
         </div>
         <div class="col-md-3">
             <h3>Our Mission</h3>
@@ -29,12 +46,12 @@
     </div>
 
     <div class="row mt-1">
-        <div class="col-md-2 text-center">
+        <div class="col-md-1 text-center">
             <h3>Meet Our Team</h3>
         </div>
         <div class="col-md-1 text-center">
-            <img src="./images/bookshop.jpeg" alt="Founder" class="rounded-circle mb-2">
-            <h5>Stanley Erhabor</h5>
+            <img src="./images/ceo.jpeg" alt="Founder" class="rounded-circle mb-1">
+            <h5></h5>
             <p>Founder & CEO</p>
-
         </div>
+    </div>

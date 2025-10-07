@@ -28,7 +28,7 @@ class Pages extends BaseController
         $data['news'] = $model->getNews($slug);
 
         if ($data['news'] === null) {
-            // throw new PageNotFoundException('Cannot find the news item: ' . $slug);
+            //throw new PageNotFoundException('Cannot find the news item: ' . $slug);
         }
 
         $data['title'] = $data['news']['title'];

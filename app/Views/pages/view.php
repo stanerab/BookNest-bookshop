@@ -8,7 +8,9 @@
             <span style="font-size:15px; font-weight:600; padding:0px 0px 0px 11px;">
                 <i class="bi bi-user"></i> Micheal Palin</span>
             &nbsp;&nbsp; | &nbsp;&nbsp;
-            <span style="font-size:15px; font-weight:600;"><i class="bi bi-calendar"></i> 28th September,2023</span>
+
+            <span style="font-size:15px; font-weight:600;"></span>
+
 
             <h5 class="fs-5 p-3 fw-bold">£<?= esc($news['price']) ?></h5>
             <hr>
