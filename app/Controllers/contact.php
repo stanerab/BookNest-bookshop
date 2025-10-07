@@ -8,7 +8,7 @@ class Contact extends Controller
 {
     public function index()
     {
-        return view('contact'); // Load the contact page
+        return view('contact');
     }
 
     public function submit()
@@ -19,7 +19,7 @@ class Contact extends Controller
         $email = $request->getPost('email');
         $message = $request->getPost('message');
 
-        $to = "your-email@example.com"; // Replace with your actual email
+        $to = "your-email@example.com";
         $subject = "New Contact Form Submission from $name";
         $body = "Name: $name\nEmail: $email\n\nMessage:\n$message";
         $headers = "From: $email";

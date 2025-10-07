@@ -14,3 +14,35 @@ $routes->get('pages/(:segment)', [Pages::class, 'show']);
 
 $routes->get('(:segment)', [Pages::class, 'view']);
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

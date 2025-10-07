@@ -9,18 +9,18 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="/pages">Home</a>
+                    <a class="nav-link active" aria-current="page" href="/bookshop-app/public/pages">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="about">About us</a>
+                    <a class="nav-link" href="/bookshop-app/public/about">About</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="contact">Contact us</a>
+                    <a class="nav-link" href="/bookshop-app/public/contact">Contact us</a>
                 </li>
-                <a class="nav-link" href="basket">Basket</a>
+                <a class="nav-link" href="/bookshop-app/public/basket">Basket</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="payment">Payment</a>
+                    <a class="nav-link" href="/bookshop-app/public/payment">Payment</a>
                 </li>
             </ul>
             <form class="d-flex" role="search">

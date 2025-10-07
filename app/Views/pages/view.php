@@ -20,7 +20,7 @@
                     <a href="<?= base_url('public/payment') ?>" type="button" class="btn btn-sm btn-info">
                         <i class="bi bi-bag"></i> Buy now
                     </a>
-                    <a href="basket" type="button"
+                    <a href="/bookshop-app/public/basket" type="button"
                         onclick="addToBasket('<?= esc($news['title']) ?>', <?= esc($news['price']) ?>)"
                         class="btn btn-sm btn-primary">
                         <i class="bi bi-cart"></i> Chart
